@@ -11,7 +11,7 @@ import com.testapp.delivery.controllers.LoginController;
 public class TestappApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TestappApplication.class, args);  
+		SpringApplication.run(TestappApplication.class, args);   
 		
 	}
 
